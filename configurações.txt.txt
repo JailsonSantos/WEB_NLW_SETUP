@@ -1,0 +1,24 @@
+
+WEB-NLW-SETUP
+
+CRIANDO O PROJETO COM VITEJS
+- npm create vite@latest
+- nome do projet
+- react
+- typescript
+
+- npm i (instalando as dependencias)
+
+RODANDO O PROJETO
+- npm run dev
+
+INTALANDO O TAILWIND CSS, POSTCSS E AUTOPREFIXER
+- npm i tailwindcss postcss autoprefixer -D
+-   	
+
+TRABALHANDO COM ICONES
+* https://phosphoricons.com/ (documentação)
+- npm i phosphor-react
+
+TRABALHANDO COM DATAS COM DAYJS
+- npm i dayjs
